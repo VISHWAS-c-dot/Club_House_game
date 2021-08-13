@@ -2,5 +2,5 @@ hey finally You are here it is the final question If you answer this question yo
 
 <h1>Warning Over Thinking Kills your Happiness:</h1>
 
-click the link      below
-I'm an inline-style link](https://www.google.com)
+click the [link](https://pages.github.com/)    below
+	~~ ~~(https://www.google.com)	~~ ~~
