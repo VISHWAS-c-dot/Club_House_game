@@ -1,4 +1,4 @@
-<h1> "Welcome to Search for Gold" </h1>
+<h1> "Welcome to Search for Gold" Clue 1</h1>
 
 Hi guys Solve the below Question and you will get one of the answer go the clubhouse "Room which you are playing right now" and check everyone's Bio the answer You have got will be there in Someone's BIO go to his Instagram BIO then you will get the link for the Second Clue.
 
