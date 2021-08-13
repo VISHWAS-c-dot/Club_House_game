@@ -4,6 +4,7 @@ Hi guys Solve the below Question and you will get one of the answer go the clubh
 
 Question 1: Problem based on Blood Relation
 Pointing to a photograph of a boy Suresh said, "He is the son of the only son of my mother." How is Suresh related to that boy?
+
 options:
 1.Father
 2.Mother
