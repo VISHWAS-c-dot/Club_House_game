@@ -19,5 +19,4 @@ step4: then you can see the answer in Plain text.
 If you have any suggestions fell free to mail us
 <pre><code> vishwas@varzsecurity.com </code></pre>
 
-please [visit] (https://github.com/VISHWAS-c-dot) me @ <pre><code> https://github.com/VISHWAS-c-dot/ </code></pre>
-
+please visit @ <pre><code> https://github.com/VISHWAS-c-dot/ </code></pre> to see my works realed to Cyber Security and Artificial Intelligence
