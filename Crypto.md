@@ -1,8 +1,8 @@
 <h1> Welcome to the Search for Gold </h1>
 
-finally You have solved all the questions and here for the answer I welcoeme you to this Round:
+finally You have solved all the questions and here for the answer I welcome you to this Round:
 
-One of the dp has the question that is encryped by caesar-cipher method, Here is the link visit this [web site] (https://cryptii.com/pipes/caesar-cipher) and follow my nstructions to get the gold.
+One of the dp has the question that is encryped by caesar-cipher method, Here is the link visit this [web site] (https://cryptii.com/pipes/caesar-cipher) and follow my instructions to get the gold.
 
 step1:  Vist the above mentioned Website and select decode in the middle section
 
